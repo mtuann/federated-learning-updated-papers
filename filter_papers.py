@@ -90,13 +90,13 @@ data_fl_md = ""
 for kk, vv in data_cat.items():
 
     data_to_md = f'# {kk}\n'
-    data_to_md += '|No. | Title | Venue | Year | Author | Volume | Url | \n'
-    data_to_md += '|----|-------|-------|------|--------|--------|-----|\n'
+    data_to_md += '|No. | Title | Venue | Year | Author | Volume | \n'
+    data_to_md += '|----|-------|-------|------|--------|--------|\n'
 
     for id, pp in enumerate(vv):
         # print(f"Other {id}: {pp['title']} -- {pp['info']}")
         # data_to_md += f"| {id + 1} | {pp['title']} | {pp['info']} | {pp['pub_time']} | {pp['author']} |\n"
-        data_to_md += f"| {id + 1} | {pp['title']} | {pp['venue']} | {pp['year']} | {pp['author']} | {pp['volume']} | {pp['url']} |\n"
+        data_to_md += f"| {id + 1} | [{pp['title']}]({pp['url']}) | {pp['venue']} | {pp['year']} | {pp['author']} | {pp['volume']} | {pp['url']} |\n"
 
     # print(data_to_md)
     data_fl_md += data_to_md
