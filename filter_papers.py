@@ -72,9 +72,6 @@ def categorize_papers(df_pp):
     for k, v in data_cat.items():
         print(k, len(v))
 
-
-    data_fl_md = ""
-
     data_fl_md = ""
 
     for kk, vv in data_cat.items():
