@@ -1,5 +1,9 @@
 At this repository, we provide the updated papers on federated learning. The papers are collected from the dblp database (all venues). The papers are updated until May 11th, 2024.
 
+For searching the papers, you can visit the [website](https://mtuann.shinyapps.io/research-papers/).
+
+If you found it useful, please give us a **star** and fork it.
+
 We divide the papers into following categories:
 - [Benchmark, Dataset and Survey](#benchmark-dataset-and-survey)
 - [Statistical Challenges: data distribution heterogeneity and label deficiency](#statistical-challenges-data-distribution-heterogeneity-and-label-deficiency)
@@ -7,7 +11,8 @@ We divide the papers into following categories:
 - [System Challenges: communication and computational resource constrained, software and hardware heterogeneity, and FL system](#system-challenges-communication-and-computational-resource-constrained-software-and-hardware-heterogeneity-and-fl-system)
 - [Models and Applications](#models-and-applications)
 - [Others](#others)
-<!-- - [Irrelevance](#irrelevance) -->
+
+We only provide the papers in `Benchmark, Dataset and Survey` category. The papers in the other categories can be found in the [website](https://mtuann.shinyapps.io/research-papers/).
 
 # Benchmark, Dataset and Survey
 |No. | Title | Venue | Year | Author | Volume | 
@@ -270,8 +275,8 @@ We divide the papers into following categories:
 | 256 | [Real-World Image Datasets for Federated Learning.](http://arxiv.org/abs/1910.11089) | CoRR | 2019 | Jiahuan Luo, Xueyang Wu 0001, Yun Luo, Anbu Huang, Yunfeng Huang, Yang Liu 0165, Qiang Yang 0001 | abs/1910.11089 | http://arxiv.org/abs/1910.11089 |
 | 257 | [Revocable Federated Learning: A Benchmark of Federated Forest.](http://arxiv.org/abs/1911.03242) | CoRR | 2019 | Yang Liu 0118, Zhuo Ma, Ximeng Liu, Zhuzhu Wang, Siqi Ma, Ken Ren | abs/1911.03242 | http://arxiv.org/abs/1911.03242 |
 | 258 | [Federated Learning: example dataset (FMCW 122GHz radars).](https://doi.org/10.21227/8yqc-1j15) | IEEE DataPort | 2019 |  |  | https://doi.org/10.21227/8yqc-1j15 |
-# Statistical Challenges: data distribution heterogeneity and label deficiency
+<!-- # Statistical Challenges: data distribution heterogeneity and label deficiency
 # Trustworthiness: security, privacy, fairness, incentive mechanism, etc.
 # System Challenges: communication and computational resource constrained, software and hardware heterogeneity, and FL system
 # Models and Applications
-# Others
+# Others -->
