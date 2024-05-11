@@ -18,7 +18,7 @@ def convert_pp_to_csv(all_papers):
     # Process duplicates
     # keys_dict = ['author', 'title', 'venue', 'volume', 'year', 'type', 'access', 'key', 'doi', 'ee', 'url']
     # keys_dict = ['author', 'title', 'venue', 'volume', 'year', 'type', 'access', 'key', 'doi', 'ee', 'url']
-    keys_dict = ['year', 'title', 'author', 'venue', 'volume', 'url']
+    keys_dict = ['title', 'venue', 'year', 'author', 'volume', 'url']
     pp_dict = {k: [] for k in keys_dict}
 
     for title, papers in group_by_title.items():
@@ -92,7 +92,7 @@ print(f"Number of papers: {len(all_papers)}")
 
 df_pp = convert_pp_to_csv(all_papers)
 
-categorize_papers(df_pp)
+# categorize_papers(df_pp)
 
 
 
