@@ -2,31 +2,35 @@
 1. [Federated Learning Papers](#federated-learning-papers)
 2. [Other topics](#other-topics)
 3. [Federated Learning Papers with Code](#federated-learning-papers-with-code)
+4. [How to Contribute](#how-to-contribute)
 
-# Federated Learning Papers
-This Github repository contains a list of Federated Learning papers that are updated until **October 05, 2024**.
-- The resources are collected from various sources, including arXiv, NeurIPS, ICML, ICLR, ACL, EMNLP, AAAI, IJCAI, KDD, CVPR, ICCV, ECCV, NIPS, IEEE, ACM, Springer, ScienceDirect, Wiley, Nature, Science, and other top AI/ ML conferences and journals.
-- [Shinyapps's website](https://mtuann.shinyapps.io/research-papers/) is available for a better reading experience.
+## Federated Learning Papers
+This GitHub repository contains an updated list of Federated Learning papers as of **October 05, 2024**. 
+
+- The resources are collected from various sources, including arXiv, NeurIPS, ICML, ICLR, ACL, EMNLP, AAAI, IJCAI, KDD, CVPR, ICCV, ECCV, NIPS, IEEE, ACM, Springer, ScienceDirect, Wiley, Nature, Science, and other top AI/ML conferences and journals.
+- For a better reading experience, visit the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/).
 
 ---
 # Other Topics
+Explore additional research papers on the following topics:
 - For **Large Language Models** papers, please visit the [**LLM Repository**](https://github.com/mtuann/llm-updated-papers).
 - For **Backdoor Learning** papers, please visit the [**Backdoor Learning Repository**](https://github.com/mtuann/backdoor-ai-resources).
 - For **Federated Learning** papers, please visit the [**Federated Learning Repository**](https://github.com/mtuann/federated-learning-updated-papers).
 - For **Machine Unlearning** papers, please visit the [**Machine Unlearning Repository**](https://github.com/mtuann/machine-unlearning-papers).
 
 ---
-If you find this application helpful and wish to support its development, you can buy me a coffee using either of the following options:
-- Techcombank (Vietnam): 5877 5555 55 (Nguyen Thi Lan Phuong)
-- Paypal or Credit/Debit card: [https://ko-fi.com/miutheladycat](https://ko-fi.com/miutheladycat)
 
-
-# Federated Learning Papers with Code
-Due to GitHub repository limitations, we only include papers that provide accompanying code and sorted by the publish date. If you want to access the full list of papers, please visit the [shinyapps's website](https://mtuann.shinyapps.io/research-papers/).
+If you find this application helpful and would like to support its development, you can buy me a coffee using one of the following methods:
+- **Techcombank (Vietnam):** 5877 5555 55 (Nguyen Thi Lan Phuong)
+- **PayPal or Credit/Debit Card:** [https://ko-fi.com/miutheladycat](https://ko-fi.com/miutheladycat)
 
 ---
 
-# How to contribute
+## Federated Learning Papers with Code
+Due to GitHub repository limitations, this section includes only those papers that provide accompanying code, sorted by publish date. For access to the full list of papers, please visit the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/).
+
+---
+## How to Contribute
 For contributions, inquiries, or suggestions, feel free to reach out via [email](mailto:tuannm0312@gmail.com).
 
 ---
