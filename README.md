@@ -2,7 +2,7 @@
 1. [Federated Learning Papers](#federated-learning-papers)
 2. [Other topics](#other-topics)
 3. [Federated Learning Papers with Code](#federated-learning-papers-with-code)
-4. [How to Contribute](#how-to-contribute)
+
 
 ## Federated Learning Papers
 This GitHub repository contains an updated list of Federated Learning papers as of **October 05, 2024**. 
@@ -20,6 +20,10 @@ Explore additional research papers on the following topics:
 
 ---
 
+For contributions, inquiries, or suggestions, feel free to reach out via [email](mailto:tuannm0312@gmail.com).
+
+---
+
 If you find this application helpful and would like to support its development, you can buy me a coffee using one of the following methods:
 - **Techcombank (Vietnam):** 5877 5555 55 (Nguyen Thi Lan Phuong)
 - **PayPal or Credit/Debit Card:** [https://ko-fi.com/miutheladycat](https://ko-fi.com/miutheladycat)
@@ -30,10 +34,7 @@ If you find this application helpful and would like to support its development, 
 Due to GitHub repository limitations, this section includes only those papers that provide accompanying code, sorted by publish date. For access to the full list of papers, please visit the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/).
 
 ---
-## How to Contribute
-For contributions, inquiries, or suggestions, feel free to reach out via [email](mailto:tuannm0312@gmail.com).
 
----
 
 |No.|Title|Authors|Publish Date|Venue|Code|URL|
 |---|---|---|---|---|---|---|
