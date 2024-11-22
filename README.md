@@ -5,7 +5,7 @@
 
 
 ## Federated Learning Papers
-This GitHub repository contains an updated list of Federated Learning papers as of **November 20, 2024**. 
+This GitHub repository contains an updated list of Federated Learning papers as of **November 22, 2024**. 
 
 - The resources are collected from various sources, including arXiv, NeurIPS, ICML, ICLR, ACL, EMNLP, AAAI, IJCAI, KDD, CVPR, ICCV, ECCV, NIPS, IEEE, ACM, Springer, ScienceDirect, Wiley, Nature, Science, and other top AI/ML conferences and journals.
 - For a better reading experience, visit the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/).
@@ -38,7 +38,7 @@ Due to GitHub repository limitations, this section includes only those papers th
 
 |No.|Title|Authors|Publish Date|Venue|Code|URL|
 |---|---|---|---|---|---|---|
-|1|Freezing of Gait Detection Using Gramian Angular Fields and Federated Learning from Wearable Sensors|Shovito Barua Soumma, S M Raihanul Alam, Rudmila Rahman, Umme Niraj Mahi, Sayyed Mostafa Mostafavi, Hassan Ghasemzadeh|2024-11-18|arXiv|https://github.com/shovito66/FOGSense|http://arxiv.org/abs/2411.11764v1|
+|1|Freezing of Gait Detection Using Gramian Angular Fields and Federated Learning from Wearable Sensors|Shovito Barua Soumma, S M Raihanul Alam, Rudmila Rahman, Umme Niraj Mahi, Abdullah Mamun, Sayyed Mostafa Mostafavi, Hassan Ghasemzadeh|2024-11-19|arXiv …, 2024|https://github.com/shovito66/FOGSense|http://arxiv.org/abs/2411.11764v2|
 |2|Federated Learning Client Pruning for Noisy Labels|Mahdi Morafah, Hojin Chang, Chen Chen, Bill Lin|2024-11-11|ACM Transactions on Modeling and Performance Evaluation of Computing Systems, 2024|https://github.com/MMorafah/ClipFL|http://arxiv.org/abs/2411.07391v1|
 |3|Masked Autoencoders are Efficient Continual Federated Learners|Subarnaduti Paul, Lars-Joel Frey, Roshni Kamath, Kristian Kersting, Martin Mundt|2024-11-06|arXiv:2411.01916, 2024|https://github.com/ycheoo/pMAE|http://arxiv.org/abs/2306.03542v1|
 |4|FPPL: An Efficient and Non-IID Robust Federated Continual Learning Framework|Yuchen He, Chuyun Shen, Xiangfeng Wang, Bo Jin|2024-11-05|arXiv:2411.01904, 2024|https://github.com/ycheoo/FPPL|http://arxiv.org/abs/2411.01904v1|
