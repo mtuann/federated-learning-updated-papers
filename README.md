@@ -5,7 +5,7 @@
 
 
 ## Federated Learning Papers
-This GitHub repository contains an updated list of Federated Learning papers as of **December 19, 2024**. 
+This GitHub repository contains an updated list of Federated Learning papers as of **December 24, 2024**. 
 
 - The resources are collected from various sources, including arXiv, NeurIPS, ICML, ICLR, ACL, EMNLP, AAAI, IJCAI, KDD, CVPR, ICCV, ECCV, NIPS, IEEE, ACM, Springer, ScienceDirect, Wiley, Nature, Science, and other top AI/ML conferences and journals.
 - For a better reading experience, visit the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/).
@@ -38,9 +38,9 @@ Due to GitHub repository limitations, this section includes only those papers th
 
 |No.|Title|Authors|Publish Date|Venue|Code|URL|
 |---|---|---|---|---|---|---|
-|1|FedCAR: Cross-client Adaptive Re-weighting for Generative Models in Federated Learning|Minjun Kim, Minjee Kim, Jinhoon Jeong|2024-12-16|arXiv|https://github.com/danny0628/FedCAR|http://arxiv.org/abs/2412.11463v1|
-|2|Vertical Federated Unlearning via Backdoor Certification|Mengde Han, Tianqing Zhu, Lefeng Zhang, Huan Huo, Wanlei Zhou|2024-12-16|arXiv|https://github.com/mengde-han/VFL-unlearn|http://arxiv.org/abs/2412.11476v1|
-|3|Task Diversity in Bayesian Federated Learning: Simultaneous Processing of Classification and Regression|Junliang Lyu, Yixuan Zhang, Xiaoling Lu, Feng Zhou|2024-12-14|arXiv|https://github.com/JunliangLv/task_diversity_BFL|http://arxiv.org/abs/2412.10897v1|
+|1|FedCAR: Cross-client Adaptive Re-weighting for Generative Models in Federated Learning|Minjun Kim, Minjee Kim, Jinhoon Jeong|2024-12-17|arXiv:2412.11463, 2024|https://github.com/danny0628/FedCAR|http://arxiv.org/abs/2412.11463v1|
+|2|Vertical Federated Unlearning via Backdoor Certification|Mengde Han, Tianqing Zhu, Lefeng Zhang, Huan Huo, Wanlei Zhou|2024-12-17|arXiv:2412.11476, 2024|https://github.com/mengde-han/VFL-unlearn|http://arxiv.org/abs/2412.11476v1|
+|3|Task Diversity in Bayesian Federated Learning: Simultaneous Processing of Classification and Regression|Junliang Lyu, Yixuan Zhang, Xiaoling Lu, Feng Zhou|2024-12-14|arXiv:2412.10897, 2024|https://github.com/JunliangLv/task_diversity_BFL|http://arxiv.org/abs/2412.10897v1|
 |4|Benchmarking Federated Learning for Semantic Datasets: Federated Scene Graph Generation|SeungBum Ha, Taehwan Lee, Jiyoun Lim, Sung Whan Yoon|2024-12-11|arXiv|https://github.com/Seung-B/FL-PSG|http://arxiv.org/abs/2412.10436v1|
 |5|A New Federated Learning Framework Against Gradient Inversion Attacks|Pengxin Guo, Shuang Zeng, Wenhao Chen, Xiaodan Zhang, Weihong Ren, Yuyin Zhou, Liangqiong Qu|2024-12-10|arXiv|https://github.com/Pengxin-Guo/HyperFL|http://arxiv.org/abs/2412.07187v1|
 |6|DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices|Yongzhe Jia, Xuyun Zhang, Hongsheng Hu, Kim-Kwang Raymond Choo, Lianyong Qi, Xiaolong Xu, Amin Beheshti, Wanchun Dou|2024-12-08|arXiv|https://github.com/jyzgh/DapperFL|http://arxiv.org/abs/2412.05823v1|
@@ -59,8 +59,8 @@ Due to GitHub repository limitations, this section includes only those papers th
 |19|Freezing of Gait Detection Using Gramian Angular Fields and Federated Learning from Wearable Sensors|Shovito Barua Soumma, S M Raihanul Alam, Rudmila Rahman, Umme Niraj Mahi, Abdullah Mamun, Sayyed Mostafa Mostafavi, Hassan Ghasemzadeh|2024-11-21|arXiv e …, 2024|https://github.com/shovito66/FOGSense|http://arxiv.org/abs/2411.11764v2|
 |20|Federated Learning Client Pruning for Noisy Labels|Mahdi Morafah, Hojin Chang, Chen Chen, Bill Lin|2024-11-11|ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS), Just Accepted|https://github.com/MMorafah/ClipFL|https://dl.acm.org/doi/10.1145/3706058|
 |21|Masked Autoencoders are Efficient Continual Federated Learners|Subarnaduti Paul, Lars-Joel Frey, Roshni Kamath, Kristian Kersting, Martin Mundt|2024-11-06|arXiv:2411.01916, 2024|https://github.com/ycheoo/pMAE|http://arxiv.org/abs/2306.03542v1|
-|22|FPPL: An Efficient and Non-IID Robust Federated Continual Learning Framework|Yuchen He, Chuyun Shen, Xiangfeng Wang, Bo Jin|2024-11-05|arXiv:2411.01904, 2024|https://github.com/ycheoo/FPPL|http://arxiv.org/abs/2411.01904v1|
-|23|Identify Backdoored Model in Federated Learning via Individual Unlearning|Jiahao Xu, Zikai Zhang, Rui Hu|2024-11-02|arXiv:2411.01040, 2024|https://github.com/JiiahaoXU/MASA|http://arxiv.org/abs/2411.01040v1|
+|22|FPPL: An Efficient and Non-IID Robust Federated Continual Learning Framework|Yuchen He, Chuyun Shen, Xiangfeng Wang, Bo Jin|2024-11-05|arXiv|https://github.com/ycheoo/FPPL|https://doi.org/10.48550/arXiv.2411.01904|
+|23|Identify Backdoored Model in Federated Learning via Individual Unlearning|Jiahao Xu, Zikai Zhang, Rui Hu|2024-11-02|arXiv|https://github.com/JiiahaoXU/MASA|https://doi.org/10.48550/arXiv.2411.01040|
 |24|Local Superior Soups: A Catalyst for Model Merging in Cross-Silo Federated Learning|Minghui Chen, Meirui Jiang, Xin Zhang, Qi Dou, Zehua Wang, Xiaoxiao Li|2024-11-01|arXiv|https://github.com/ubc-tea/Local-Superior-Soups|https://doi.org/10.48550/arXiv.2410.23660|
 |25|Federated Black-Box Adaptation for Semantic Segmentation|Jay N. Paranjape, Shameema Sikder, S. Swaroop Vedula, Vishal M. Patel|2024-11-01|arXiv …, 2024|https://github.com/JayParanjape/blackfed/tree/master|http://arxiv.org/abs/2410.24181v1|
 |26|FedCVD: The First Real-World Federated Learning Benchmark on Cardiovascular Disease Data|Yukun Zhang, Guanzhong Chen, Zenglin Xu, Jianyong Wang, Dun Zeng, Junfan Li, Jinghua Wang, Yuan Qi, Irwin King|2024-10-28|arXiv|https://github.com/SMILELab-FL/FedCVD|http://arxiv.org/abs/2411.07050v1|
