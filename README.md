@@ -5,7 +5,7 @@
 
 
 ## Federated Learning Papers
-This GitHub repository contains an updated list of Federated Learning papers as of **February 04, 2025**. 
+This GitHub repository contains an updated list of Federated Learning papers as of **February 05, 2025**. 
 
 - The resources are collected from various sources, including arXiv, NeurIPS, ICML, ICLR, ACL, EMNLP, AAAI, IJCAI, KDD, CVPR, ICCV, ECCV, NIPS, IEEE, ACM, Springer, ScienceDirect, Wiley, Nature, Science, and other top AI/ML conferences and journals.
 - For a better reading experience, visit the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/).
