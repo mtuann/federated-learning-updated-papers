@@ -7,7 +7,7 @@
 6. [Support](#support)
 
 ## Federated Learning Papers
-This GitHub repository contains an updated list of Federated Learning papers as of **October 21, 2025**. 
+This GitHub repository contains an updated list of Federated Learning papers as of **November 18, 2025**. 
 
 ### Overview
 - **Total Papers**: Updated regularly with latest publications
@@ -77,7 +77,7 @@ Due to GitHub repository limitations, this section includes only those papers th
 - **Total Papers in Dataset**: 24,361
 - **Papers with Available Code**: 813
 - **Code Availability Rate**: 3.3%
-- **Last Updated**: October 21, 2025
+- **Last Updated**: November 18, 2025
 
 ### Paper Statistics
 - **Total Papers**: 24361
