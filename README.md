@@ -13,7 +13,7 @@ This GitHub repository contains an updated list of Federated Learning papers as 
 - **Total Papers**: Updated regularly with latest publications
 - **Coverage**: Papers from 2016 to present
 - **Sources**: Collected from arXiv, NeurIPS, ICML, ICLR, ACL, EMNLP, AAAI, IJCAI, KDD, CVPR, ICCV, ECCV, IEEE, ACM, Springer, ScienceDirect, Nature, and other top AI/ML conferences and journals
-- **Interactive Search**: For a better reading experience, visit the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/)
+- **Interactive Search**: For a better reading experience, visit the [Research Papers Page](https://mtuann.github.io/papers/)
 
 ### Key Features
 - 📊 **Comprehensive Coverage**: Papers from major AI/ML venues
@@ -34,72 +34,16 @@ Explore additional research papers on the following topics:
 - **[Machine Unlearning](https://github.com/mtuann/machine-unlearning-papers)** - Data removal and privacy
 
 ### Computing & Systems
-- **[Serverless Computing](https://mtuann.shinyapps.io/research-papers/)** - Cloud computing architectures
-- **[Multi-Modal Learning](https://mtuann.shinyapps.io/research-papers/)** - Multi-modal AI systems
+- **[Serverless Computing](https://mtuann.github.io/papers/)** - Cloud computing architectures
+- **[Multi-Modal Learning](https://mtuann.github.io/papers/)** - Multi-modal AI systems
 
 ### Interactive Platforms
-- **[Research Papers App](https://mtuann.shinyapps.io/research-papers/)** - Search and explore all papers
-- **[Paper Collections](https://github.com/mtuann/research-papers)** - Main repository with all datasets
-
----
-
-## Data Sources
-The papers are collected from the following sources:
-
-### Academic Databases
-- **arXiv** (1991-present) - Preprints and published papers
-- **OpenReview** - Conference submissions and peer reviews
-- **ACM Digital Library** - Computer science publications
-- **Springer** - Academic journals and conferences
-- **ScienceDirect** - Elsevier publications
-- **Nature** - High-impact research papers
-- **DBLP** - Computer science bibliography
-- **Google Scholar** - Academic search engine
-- **CrossRef** - DOI registration agency
-- **OpenAlex** - Open scholarly data
-
-### Major Conferences & Journals
-- **Machine Learning**: NeurIPS, ICML, ICLR, JMLR, TMLR
-- **Natural Language Processing**: ACL, EMNLP, NAACL, COLING
-- **Computer Vision**: CVPR, ICCV, ECCV, PAMI, IJCV
-- **Artificial Intelligence**: AAAI, IJCAI, AAMAS
-- **Data Mining**: KDD, ICDM, SDM, TKDD
-- **Security & Privacy**: CCS, USENIX Security, NDSS
-- **And many more...**
+- **[Research Papers App](https://mtuann.github.io/papers/)** - Search and explore all papers
 
 ---
 
 ## Federated Learning Papers with Code
-Due to GitHub repository limitations, this section includes only those papers that provide accompanying code, sorted by publication date. For access to the full list of papers, please visit the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/).
-
-<!-- 
-### Summary Statistics
-- **Total Papers in Dataset**: 25,990
-- **Papers with Available Code**: 847
-- **Code Availability Rate**: 3.3%
-- **Last Updated**: January 08, 2026
-
-### Paper Statistics
-- **Total Papers**: 25990
-- **Papers with Code**: 25990
-- **Latest Update**: 25990
-- **Coverage Period**: 2016 - Present -->
-
----
-
-## Contributing
-We welcome contributions to improve this paper collection:
-
-### How to Contribute
-1. **Add Missing Papers**: Submit papers that should be included
-2. **Improve Metadata**: Help enhance paper information
-3. **Report Issues**: Identify bugs or missing features
-4. **Suggest Improvements**: Propose new features or enhancements
-
-### Contact Information
-- **Email**: [tuannm0312@gmail.com](mailto:tuannm0312@gmail.com)
-- **GitHub Issues**: [Create an issue](https://github.com/mtuann/research-papers/issues)
-- **Discussions**: [Join the discussion](https://github.com/mtuann/research-papers/discussions)
+Due to GitHub repository limitations, this section includes only those papers that provide accompanying code, sorted by publication date. For access to the full list of papers, please visit the [Research Papers Page](https://mtuann.github.io/papers/).
 
 ---
 
@@ -110,17 +54,9 @@ If you find this application helpful and would like to support its development, 
 - **Techcombank (Vietnam)**: 5877 5555 55 (Nguyen Thi Lan Phuong)
 - **PayPal or Credit/Debit Card**: [https://ko-fi.com/miutheladycat](https://ko-fi.com/miutheladycat)
 
-### Why Support?
-Your support helps maintain and improve:
-- 🤖 Automated paper collection pipeline
-- 🌐 Interactive web application
-- 📊 Regular data updates
-- 🔧 System maintenance and improvements
-- 📚 New research area coverage
-
 ---
 
-**Note**: This repository is regularly updated with new papers. For the most current data, check the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/) or the individual topic repositories linked above.
+**Note**: This repository is regularly updated with new papers. For the most current data, check the [Research Papers Page](https://mtuann.github.io/papers/) or the individual topic repositories linked above.
 
 
 |No.|Title|Authors|Publish Date|Venue|Code|URL|
