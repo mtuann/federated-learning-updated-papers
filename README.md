@@ -1,6 +1,6 @@
 # Federated Learning Papers
 
-Updated list of Federated Learning papers as of **August 01, 2026**. 
+Updated list of Federated Learning papers as of **September 05, 2026**. 
 
 ## Quick Access
 🔍 **[Interactive Search & Browse](https://mtuann.github.io/papers/)** - Filter, search, and explore all papers with an intuitive interface
