@@ -2,7 +2,7 @@
 
 Training models across many clients without sharing raw data: optimization, heterogeneity, privacy, robustness and systems.
 
-**941 papers with code** out of 38,294 indexed · updated **October 19, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=federated)**
+**941 papers with code** out of 38,263 indexed · updated **October 19, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=federated)**
 
 **More lists:** [Backdoor Learning](https://github.com/mtuann/backdoor-ai-resources) · [Machine Unlearning](https://github.com/mtuann/machine-unlearning-papers) · [LLM Serving](https://github.com/mtuann/llm-serving-papers)
 
