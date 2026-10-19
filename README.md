@@ -4,7 +4,7 @@ Training models across many clients without sharing raw data: optimization, hete
 
 **955 papers with code** out of 38,484 indexed · updated **October 19, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=federated)**
 
-**More lists:** [LLM Serving](https://github.com/mtuann/llm-serving-papers) · [Backdoor Learning](https://github.com/mtuann/backdoor-ai-resources) · [Machine Unlearning](https://github.com/mtuann/machine-unlearning-papers)
+**More lists:** [LLM Serving](https://github.com/mtuann/llm-serving-papers) · [RAG](https://github.com/mtuann/rag-papers) · [Backdoor Learning](https://github.com/mtuann/backdoor-ai-resources) · [Machine Unlearning](https://github.com/mtuann/machine-unlearning-papers)
 
 ## Newest 200 papers with code
 
