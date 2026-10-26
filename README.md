@@ -2,7 +2,7 @@
 
 Training models across many clients without sharing raw data: optimization, heterogeneity, privacy, robustness and systems.
 
-**955 papers with code** out of 38,484 indexed · updated **October 20, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=federated)**
+**957 papers with code** out of 38,649 indexed · updated **October 25, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=federated)**
 
 **More lists:** [LLM Serving](https://github.com/mtuann/llm-serving-papers) · [RAG](https://github.com/mtuann/rag-papers) · [Agent CDN](https://github.com/mtuann/agent-cdn-papers) · [Backdoor Learning](https://github.com/mtuann/backdoor-ai-resources) · [Machine Unlearning](https://github.com/mtuann/machine-unlearning-papers)
 
@@ -10,6 +10,8 @@ Training models across many clients without sharing raw data: optimization, hete
 
 | Date | Paper | Venue | Code |
 |---|---|---|---|
+| 2026-10-22 | [Is High Local Accuracy Enough? Geometric Consensus with Support-Adaptive Statistical Personalization for Federated Learning](https://arxiv.org/abs/2610.31133)<br><sub>Junyu Lin, Bosong Qi, Pengcheng Shi et al.</sub> | arXiv | [![stars](https://img.shields.io/github/stars/JL181/FedGRC-Benchmark?style=flat&label=%E2%98%85)](https://github.com/JL181/FedGRC-Benchmark) |
+| 2026-10-14 | [The Dynamics of Collapse and Recovery in Clustered Federated Learning](https://openreview.net/forum?id=378iQJd5UU)<br><sub>Priyanka Deb Sinha, Snigdhansu Chatterjee</sub> | DynaFront@NeurIPS26 Poster | [![stars](https://img.shields.io/github/stars/prsinha1/FedRecover?style=flat&label=%E2%98%85)](https://github.com/prsinha1/FedRecover) |
 | 2026-10-03 | [Extendible Multi-Stage Federated Multi-Modal Learning with Missing Modalities](https://openreview.net/forum?id=tbWvDwvBIb)<br><sub></sub> | ICLR 2027 (submission) | [![stars](https://img.shields.io/github/stars/for-reviewers-arz/FArms_wArms?style=flat&label=%E2%98%85)](https://github.com/for-reviewers-arz/FArms_wArms) |
 | 2026-09-30 | [HO-FL: Hybrid-Order Federated Learning for Heterogeneous Edge Devices](https://openreview.net/forum?id=iVQu1sp529)<br><sub>Qiyuan Chen, Xian Wu, Yanan Ma et al.</sub> | ICLR 2027 (submission) | [![stars](https://img.shields.io/github/stars/HKU-WILL-Lab/HO-FL?style=flat&label=%E2%98%85)](https://github.com/HKU-WILL-Lab/HO-FL) |
 | 2026-09-28 | [Making Cross-Continental Federated Learning Repeatable with FLIP: a Multi-Application Study](https://doi.org/10.48550/ARXIV.2609.36001)<br><sub>Rafael Garcia‐Dias, Alexandre Triay Bagur, Chayanin Tangwiriyasakul et al.</sub> | arXiv | [![stars](https://img.shields.io/github/stars/londonaicentre/FLIP?style=flat&label=%E2%98%85)](https://github.com/londonaicentre/FLIP) |
@@ -208,8 +210,6 @@ Training models across many clients without sharing raw data: optimization, hete
 | 2025-05-01 | [GHOST: Generalizable One-Shot Federated Graph Learning with Proxy-Based Topology Knowledge Retention](https://openreview.net/forum?id=nAk0ENu8LS)<br><sub>Jiaru Qian, Guancheng Wan, Wenke Huang et al.</sub> | ICML 2025 | [![stars](https://img.shields.io/github/stars/JiaruQian/GHOST?style=flat&label=%E2%98%85)](https://github.com/JiaruQian/GHOST) |
 | 2025-05-01 | [Federated Incomplete Multi-view Clustering with Globally Fused Graph Guidance](https://openreview.net/forum?id=7qvYLnJDRd)<br><sub>Guoqing Chao, Zhenghao Zhang, Lei Meng et al.</sub> | ICML 2025 | [![stars](https://img.shields.io/github/stars/PaddiHunter/FIMCFG?style=flat&label=%E2%98%85)](https://github.com/PaddiHunter/FIMCFG) |
 | 2025-05-01 | [Federated Disentangled Tuning with Textual Prior Decoupling and Visual Dynamic Adaptation](https://openreview.net/forum?id=0p86Mhg014)<br><sub>Yihao Yang, Wenke Huang, Guancheng Wan et al.</sub> | ICML 2025 | [![stars](https://img.shields.io/github/stars/MoratalYang/FedDDA?style=flat&label=%E2%98%85)](https://github.com/MoratalYang/FedDDA) |
-| 2025-05-01 | [Efficient Federated Incomplete Multi-View Clustering](https://openreview.net/forum?id=sylDbssCU9)<br><sub>Suyuan Liu, Hao Yu, Hao Tan et al.</sub> | ICML 2025 | [![stars](https://img.shields.io/github/stars/Tracesource/EFIMVC?style=flat&label=%E2%98%85)](https://github.com/Tracesource/EFIMVC) |
-| 2025-05-01 | [Defending the Edge: Representative-Attention for Mitigating Backdoor Attacks in Federated Learning](https://doi.org/10.48550/arXiv.2505.10297)<br><sub>Chibueze Peace Obioma, Youcheng Sun, Mustafa A. Mustafa</sub> | arXiv | [![stars](https://img.shields.io/github/stars/Peatech/FeRA_defense?style=flat&label=%E2%98%85)](https://github.com/Peatech/FeRA_defense) |
 
 ---
 
